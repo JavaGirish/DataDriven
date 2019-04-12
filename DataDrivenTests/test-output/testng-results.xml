@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-04-12T15:38:55Z" name="Default suite" finished-at="2019-04-12T15:39:20Z" duration-ms="24816">
+    <groups>
+    </groups>
+    <test started-at="2019-04-12T15:38:55Z" name="Default test" finished-at="2019-04-12T15:39:20Z" duration-ms="24816">
+      <class name="com.tests.dataDrivenTests">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.tests.dataDrivenTests@4e50c791]" started-at="2019-04-12T15:38:56Z" name="setUp" finished-at="2019-04-12T15:39:01Z" duration-ms="5357" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="panDataTests(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.tests.dataDrivenTests@4e50c791]" started-at="2019-04-12T15:39:01Z" name="panDataTests" data-provider="getData" finished-at="2019-04-12T15:39:05Z" duration-ms="3664" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Jai]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[2147483647]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[New PAN - Indian Citizen (Form 49A)]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[INDIVIDUAL]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- panDataTests -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tests.dataDrivenTests@4e50c791]" started-at="2019-04-12T15:39:05Z" name="tearDown" finished-at="2019-04-12T15:39:05Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.tests.dataDrivenTests@4e50c791]" started-at="2019-04-12T15:39:05Z" name="setUp" finished-at="2019-04-12T15:39:17Z" duration-ms="11644" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="panDataTests(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.tests.dataDrivenTests@4e50c791]" started-at="2019-04-12T15:39:17Z" name="panDataTests" data-provider="getData" finished-at="2019-04-12T15:39:20Z" duration-ms="3683" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Raju]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[2147483647]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[New PAN - Indian Citizen (Form 49A)]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[INDIVIDUAL]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- panDataTests -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tests.dataDrivenTests@4e50c791]" started-at="2019-04-12T15:39:20Z" name="tearDown" finished-at="2019-04-12T15:39:20Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.tests.dataDrivenTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
